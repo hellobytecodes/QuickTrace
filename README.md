@@ -15,4 +15,4 @@ pip install -r requirements.txt
 python QuickTrace.py
 ```
 # last word
-I hope you use it properly. God bless.
+I hope you use it properly. God bless. ♥️🖐️
